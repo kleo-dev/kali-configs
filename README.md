@@ -18,6 +18,10 @@ sudo apt update && sudo apt upgrade
 
 **Install VSCode** https://code.visualstudio.com/
 
-**Install VSCode** https://github.com/obsproject/obs-studio/releases
+**Install OBS Studio**
+
+``` bash
+sudo apt install obs-studio
+```
 
 ## Customizing kali (xfce)
